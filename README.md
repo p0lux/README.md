@@ -12,9 +12,11 @@ Currently, I have a master's degree in cyber security combined with a work-study
 
 #### Certifications
 
-PCAP-30-01 : [Reference](https://www.credly.com/badges/6891244c-41ae-4942-b8ed-ba3e2455a2a3/linked_in_profile)
+PCEP-30-01 : [Reference](https://www.credly.com/badges/6891244c-41ae-4942-b8ed-ba3e2455a2a3/linked_in_profile)
 
 PCAP-31-02 : [Reference](https://www.credly.com/badges/6b87158a-3bfd-400e-a5fc-271d92f6206f/linked_in_profile)
+
+PCPP1 : Waiting... ⌛
 
 #### Tools
 ![PyCharm](https://img.shields.io/badge/-Pycharm-1da126?style=flat&logo=pycharm&logoColor=FFF)
