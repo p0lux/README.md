@@ -30,5 +30,8 @@ PCAP-31-02 : [Reference](https://www.credly.com/badges/6b87158a-3bfd-400e-a5fc-2
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFF)
 ![Flask](https://img.shields.io/badge/-FLask-000000?style=flat&logo=flask&logoColor=FFF)
 
+#### Enthusiastic
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=FFF)
+![Nano](https://img.shields.io/badge/-Nano-4A90E2?style=flat&logo=nano&logoColor=FFF)
 
 Do not hesitate to come and discuss your projects or ideas! 💥
