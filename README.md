@@ -27,13 +27,18 @@ PCPP1 : Waiting... ⌛
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=FFF)
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=flat&logo=apple&logoColor=FFF)
 
-
 #### Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFF)
 ![Flask](https://img.shields.io/badge/-FLask-000000?style=flat&logo=flask&logoColor=FFF)
 
+#### Last articles 
+
+* [Retour sur l'EuroPython 2020](https://blog.bssi.fr/retour-sur-leuropython-2020/)
+* [Les packages, un vecteur d'attaque pour votre entreprise](https://cert.bssi.fr/package-un-vecteur-d-attaque-pour-votre-entreprise/)
+
 #### Enthusiastic
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=FFF)
 ![Nano](https://img.shields.io/badge/-Nano-4A90E2?style=flat&logo=nano&logoColor=FFF)
+
 
 Do not hesitate to come and discuss your projects or ideas! 💥
