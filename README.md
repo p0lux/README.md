@@ -1,7 +1,7 @@
 #### Hi fellas 🤙🏼 , I'm p0lux french Pythonista 🐍
 
 
-Currently, I have a master's degree in cyber security combined with a work-study program in a security auditing company, I started to develop development skills. Following my studies, I became a lead developer in the same company, my job is to create a cyber-surveillance tool entirely in Python. In parallel I passed several certifications thanks to the [Python Insitute](https://pythoninstitute.org/). 
+Currently, I have a master's degree in cyber security combined with a work-study program in a security auditing company, I started to develop development skills. Following my studies, I became a lead developer in the same company, my job is to create a cyber-surveillance tool entirely in Python. In parallel I passed several certifications in Python thanks to the [Python Insitute](https://pythoninstitute.org/). 
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFF)
