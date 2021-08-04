@@ -31,8 +31,9 @@ PCPP1 : Waiting... ⌛
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFF)
 ![Flask](https://img.shields.io/badge/-FLask-000000?style=flat&logo=flask&logoColor=FFF)
 
-#### Last articles 
+#### Last articles
 
+* [Modification de données dans des PDFs signés](https://cert.bssi.fr/modification-donnees-pdf-signes/)
 * [Les packages, un vecteur d'attaque pour votre entreprise](https://cert.bssi.fr/package-un-vecteur-d-attaque-pour-votre-entreprise/)
 * [Retour sur l'EuroPython 2020](https://blog.bssi.fr/retour-sur-leuropython-2020/)
 
