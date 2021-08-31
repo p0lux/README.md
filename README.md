@@ -33,6 +33,7 @@ PCPP1 : Waiting... ⌛
 
 #### Last articles
 
+* [La sténographie, un vecteur d'attaque secret](https://cert.bssi.fr/la-steganographie-un-vecteur-dattaque-secret/)
 * [Modification de données dans des PDFs signés](https://cert.bssi.fr/modification-donnees-pdf-signes/)
 * [Les packages, un vecteur d'attaque pour votre entreprise](https://cert.bssi.fr/package-un-vecteur-d-attaque-pour-votre-entreprise/)
 * [Retour sur l'EuroPython 2020](https://blog.bssi.fr/retour-sur-leuropython-2020/)
